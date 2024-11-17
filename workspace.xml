@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8314ffd6-8b2a-4336-9759-23fd144518bc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_0.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_1.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_10.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_11.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_12.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_13.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_14.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_15.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_16.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_17.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_18.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_19.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_2.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_20.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_21.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_22.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_23.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_24.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_25.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_26.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_27.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_28.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_29.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_3.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_30.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_31.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_32.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_33.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_34.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_35.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_36.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_37.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_38.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_39.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_4.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_40.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_41.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_42.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_43.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_44.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_45.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_46.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_47.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_48.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_49.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_5.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_6.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_7.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_8.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gridworlds/grid_9.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment1IntroToAI.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2mMLF4uMvS6gaHII6mmI9LUM7NK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Assignment1IntroToAI" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.idea" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.idea/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8314ffd6-8b2a-4336-9759-23fd144518bc" name="Changes" comment="" />
+      <created>1726881391867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726881391867</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/.idea/Main.py</url>
+          <line>391</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
